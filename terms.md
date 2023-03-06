@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Términos y condiciones
+permalink: /terms/
 ---
 
 # Términos y condiciones

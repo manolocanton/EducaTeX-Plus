@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Política de privacidad
+permalink: /privacy/
 ---
 
 # Política de privacidad
